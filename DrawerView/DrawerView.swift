@@ -71,7 +71,7 @@ let kDefaultBorderColor = UIColor(white: 0.2, alpha: 0.2)
 
 let kDefaultOverlayBackgroundColor = UIColor.black
 
-let kOverlayOpacity: CGFloat = 0.5
+let kOverlayOpacity: CGFloat = 0.25
 
 
 @objc public protocol DrawerViewDelegate {
